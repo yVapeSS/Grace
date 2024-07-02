@@ -1,0 +1,21 @@
+
+settings:
+  defaultStatus: false
+  timeToEnd: 6000
+
+messages:
+  not-in-grace: '&cO grace já acabou ou não foi iniciado.'
+  in-grace: '&aAtualmente o modo grace está ativado.'
+  enabled-grace:
+    - ''
+    - '&a&l GRACE!'
+    - '&f O grace foi ativado!'
+    - '&f durante o grace, pvp e'
+    - '&f explosões estão desativados.'
+    - ''
+  disabled-grace:
+    - ''
+    - '&c&l GRACE!'
+    - '&f O grace foi desativado!'
+    - '&f explosões e pvp agora estão liberados.'
+    - ''
